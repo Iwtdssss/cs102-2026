@@ -1,6 +1,6 @@
-""" Лаба 00 """
+"""Лаба 00"""
 
-def text(message: str="default") -> str:
+def text(message: str = "default") -> str:
     """Function
 
     param message: message
