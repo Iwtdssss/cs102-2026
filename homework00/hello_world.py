@@ -1,4 +1,4 @@
-""" Лаба 0 """
+""" Лаба 00 """
 
 def text(message: str="default") -> str":
     """Function
