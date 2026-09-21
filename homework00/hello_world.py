@@ -1,5 +1,6 @@
 """Лаба 00"""
 
+
 def text(message: str = "default") -> str:
     """Function
 
@@ -7,6 +8,7 @@ def text(message: str = "default") -> str:
     return: message
     """
     return message
+
 
 if __name__ == "__main__":
     print(text())
